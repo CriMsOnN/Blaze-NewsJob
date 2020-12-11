@@ -1,4 +1,4 @@
-# <center>News Job</center>
+<h1 style="text-align:center">News Job</h1>
 
 ## Requirements
 * [bob74_ipl](https://github.com/Bob74/bob74_ipl)

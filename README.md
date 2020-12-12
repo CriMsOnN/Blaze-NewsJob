@@ -12,7 +12,7 @@ git clone https://github.com/CriMsOnN/Blaze-NewsJob [esx]/Blaze_NewsJob
 ```
 
 ### Manually
-- Download https://github.com/CriMsOnN/Blaze-NewsJob/archive/master.zip
+- Download https://github.com/CriMsOnN/Blaze-NewsJob/archive/main.zip
 - Put it in the `[esx]` directory
 
 ## Installation

@@ -172,7 +172,6 @@ end)
 
 
 photoAnimation = function()
-    print("starting animation")
     local ped = GetPlayerPed(-1)
     LoadAnim('amb@world_human_paparazzi@male@enter')
     TaskPlayAnim(ped, 'amb@world_human_paparazzi@male@enter', 'enter', 6.0, -6.0, -1, 49, 0, 0, 0, 0)
@@ -194,7 +193,6 @@ photoAnimation = function()
     end
     Routing()
 
-    print("Earnings: ", Earnings)
 end
 
 cameraObject = function()

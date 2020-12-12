@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 <h1 style="text-align:center">NewsJob</h1>
-=======
-<h1 align="center">
-  News Job
-</h1>
->>>>>>> 7ba000d7582de88144c6921ce1af6e29fbe7f9fe
 
 ## Requirements
 * [bob74_ipl](https://github.com/Bob74/bob74_ipl)

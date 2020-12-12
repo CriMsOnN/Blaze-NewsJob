@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 <h1 style="text-align:center">NewsJob</h1>
+=======
+<h1 align="center">
+  News Job
+</h1>
+>>>>>>> 7ba000d7582de88144c6921ce1af6e29fbe7f9fe
 
 ## Requirements
 * [bob74_ipl](https://github.com/Bob74/bob74_ipl)
@@ -26,7 +32,8 @@ ensure bob74_ipl
 ensure Blaze_NewsJobMap
 ensure Blaze_NewsJob
 ```
-
+### Video
+[Streamable](https://streamable.com/1f5jgq)
 
 # Legal
 ### License

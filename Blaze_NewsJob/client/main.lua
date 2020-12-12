@@ -4,7 +4,6 @@ local Earnings = 0
 local VehicleHash = nil
 local PreviousLocation = nil
 local isRouting = false
-local isReporter = false
 local CurrentLocation = 0
 local CameraObject = nil
 local PreviousLocation = nil
